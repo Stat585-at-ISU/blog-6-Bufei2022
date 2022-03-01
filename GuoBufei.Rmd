@@ -43,7 +43,7 @@ Write a blog post addressing the questions:
     Keiding thinks that it is more important to forcus on the statistical analysis than the correctness of calculations.Poorly informed reanalyses of old data
     sets should not be encouraged. 
     Keiding argues that exact recovery of result is unrealistic, as the results are often minor part of statistical analysis and exsitence of rounding error.
-    Also, releasing of data sets is not allowed in many situations. Even when the data is made avilable, such ``immutable'' data set under Peng's assumption
+    Also, releasing of data sets is not allowed in many situations. Even when the data is made avilable, such "immutable" data set under Peng's assumption
     does not exist.
     3. **Which point in the commentaries speaks to you the most? Why?**
     In "An invitation to reproducible computational research" by David Donoho, the author states that *Computational reproducibility is the means by which the
